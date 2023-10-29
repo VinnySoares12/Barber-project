@@ -1,7 +1,7 @@
 # Barber landing page
 
 
-![Preview]()
+![Preview](image.png)
 
 > Barber
 
